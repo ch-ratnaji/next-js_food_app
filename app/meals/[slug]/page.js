@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function dynamicMeals({ params }) {
+export default function MealDetailsPage({ params }) {
   return (
     <>
       <h1>dynamicMeals</h1>
